@@ -52,3 +52,5 @@ Key Peripherals:
 
 This project demonstrates how to effectively manage a radar detection system using an FSM in an embedded C environment, showcasing advanced techniques in modular design, peripheral management, and low-power operation.
 For more info, go to https://youtu.be/k-vPiOiqaU4
+
+![Screenshot 2024-09-07 113635](https://github.com/user-attachments/assets/8798810f-4d2d-4cf2-b0e8-b5ccab984136)
